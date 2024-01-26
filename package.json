@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "json-2-csv": "^5.0.1",
+    "yargs": "^17.7.2"
+  }
+}
